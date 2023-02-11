@@ -1,0 +1,20 @@
+Title: "Maneng Bills Generator"
+Description: "This is an app that takes in different bills and split between Manong and Ineng. It also generates a pdf report and saved on a database for data analysis later on"
+
+Objects:
+        Bayarin:
+            bills_list
+            total_amount
+            split()
+
+        Bill:
+            amount
+            period
+            
+        Database:
+            path
+
+        PdfGenerator:
+            filename
+            
+            

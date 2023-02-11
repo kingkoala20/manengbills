@@ -1,0 +1,1 @@
+start /MIN python.exe "C:\Users\uchiy\OneDrive\Desktop\IT Resources\My Python Projects\HatingAsawa\gui.py"
